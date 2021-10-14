@@ -1,0 +1,2 @@
+Basic tic tac toe game usinh html , css , javascript 
+not enough styling is applied due to time constraint issues 
