@@ -1,0 +1,1 @@
+simple connect four game using very basics of html and cs and somehat complex logic applied using jQuery instead of vanilla js
